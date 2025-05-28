@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @YozlenAliev
 - 👀 I’m interested in Software development
 - 🌱 I’m currently learning Python Fundamentals 
-- 📫 How to reach me: mail: yozlenaliev@gmail.com,
+- 📫 How to reach me:
+-   mail: yozlenaliev@gmail.com,
 -   Facebook: https://www.facebook.com/YozlenYONAliev/,
 -   LinkedIn: www.linkedin.com/in/yozlen-aliev
 
