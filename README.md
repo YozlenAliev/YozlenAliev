@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @YozlenAliev
 - 👀 I’m interested in Software development
-- 🌱 I’m currently learning Python Fundamentals 
+- 🌱 I’ve completed Python OOP 
 - 📫 How to reach me:
 -   mail: yozlenaliev@gmail.com,
 -   Facebook: https://www.facebook.com/YozlenYONAliev/,
